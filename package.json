@@ -2,6 +2,7 @@
   "name": "newton-school-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gurkaranchhabra.github.io/breaking_bad_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
